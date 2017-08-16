@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AliceMakk\\MYOB\\": "src/"
+            "tenfef\\MYOB\\": "src/"
         }
     }
 }
