@@ -1,6 +1,5 @@
 {
     "name": "AliceMakk/oauth2-myob",
-    "minimum-stability": "dev",
     "description": "MYOB OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
@@ -20,7 +19,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "league/oauth2-client": "~2.2.1"
+        "league/oauth2-client": "2.2.1"
     },
     "autoload": {
         "psr-4": {
