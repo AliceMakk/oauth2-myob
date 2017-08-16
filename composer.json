@@ -6,7 +6,7 @@
         {
             "name": "Jordan Clist",
             "email": "jordan@fergusapp.com",
-            "homepage": "https://github.com/tenfef"
+            "homepage": "https://github.com/AliceMakk"
         }        
     ],
     "keywords": [
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tenfef\\MYOB\\": "src/"
+            "AliceMakk\\MYOB\\": "src/"
         }
     }
 }
